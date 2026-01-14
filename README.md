@@ -26,5 +26,6 @@ To handle image processing efficiently and securely, this project utilizes a dec
 ### 🌐 Frontend (GitHub Pages)
 ```text
 ├── index.html          # Main Application UI
+├── favicon.png          # Site favicon
 ├── script.js           # API logic and UI interaction
 └── style.css           # Application styling
